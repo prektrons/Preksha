@@ -20,8 +20,17 @@
 
 ## Core Skills
 
+My core skills include folllowing
 
-
+- Python
+- Pyspark
+- C,C++
+- Html & CSS
+- Android
+- React
+- Power BI
+- Flask
+- Spring Boot
 <!--
 **prektrons/prektrons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
