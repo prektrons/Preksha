@@ -13,7 +13,7 @@
     
 
 
-  <div id="badges">
+  <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/preksha-sharma-8ab51a86/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" width="90" height="80" alt="LinkedIn Badge"/>
   </a>
