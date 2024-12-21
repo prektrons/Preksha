@@ -1,4 +1,4 @@
- ## Hi, Preksha Sharma
+Hi, Preksha Sharma
  An accomplished professional with close to 3 years of versatile experience as a Python Developer, Data Analyst, and Data Engineer. 
 
 - Developed impactful software modules using technologies like REST and Web APIs, Flask, Jupyter, and more.
