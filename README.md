@@ -12,7 +12,7 @@ Hi, Preksha Sharma
 
  <p>
 <div>
-<a href="https://www.linkedin.com/in/preksha-sharma-8ab51a86/" ><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" height="100" /></a>
+<a href="https://www.linkedin.com/in/preksha-sharma-8ab51a86/" ><img align="center" src="https://www.vecteezy.com/png/23986970-linkedin-logo-png-linkedin-logo-transparent-png-linkedin-icon-transparent-free-png" height="100" /></a>
 <a href="https://github.com/prektrons" ><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" height="100" /></a>
 </div>
 </p>
