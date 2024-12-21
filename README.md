@@ -9,10 +9,11 @@ Hi, Preksha Sharma
 - Experienced in multithread programming and optimization techniques, including Software Structure for Sustained Innovation (SSE) and Single Instruction Multiple Data (SIMD) vector processing instructions.
 - Automated the software release process using scripts, reducing the time required by 70%.
 - A competent leader with excellent communication, multitasking, analytical, negotiation, and relationship-building skills.
+
  <p>
-    
 
-
+<a href="https://www.linkedin.com/in/preksha-sharma-8ab51a86/" ><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" height="100" /></a>
+<a href="https://github.com/prektrons" ><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" height="100" /></a>
   <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/preksha-sharma-8ab51a86/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" width="90" height="80" alt="LinkedIn Badge"/>
