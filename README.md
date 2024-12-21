@@ -20,7 +20,18 @@
 
 ## Core Skills
 
-My core skills include folllowing
+
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="60" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" title="Android" alt="Android" width="40" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Py" width="40" height="60"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" title="JQuery" alt="JQuery" width="40" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="40" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-line-wordmark.svg"  title="Firebase" alt="Firebase" width="40" height="60"/>&nbsp;
+  <div>
+  </div>
+</div>
+My core skills include following
 
 - Python
 - Pyspark
@@ -31,6 +42,11 @@ My core skills include folllowing
 - Power BI
 - Flask
 - Spring Boot
+- Django
+- Firebase
+
+
+  
 <!--
 **prektrons/prektrons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
