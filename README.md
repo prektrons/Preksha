@@ -16,18 +16,29 @@
   <a href="https://github.com/prektrons" rel="nofollow noreferrer">
     <img src="https://i.sstatic.net/tskMh.png" alt="github"> Preksha's Github Profile
   </a>
+
+
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/preksha-sharma-8ab51a86/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" width="90" height="80" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://github.com/prektrons">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="70" height="60" alt="Github Badge"/>
+  </a>
+  
+</div>
 </p>
 
 ## Core Skills
 
 
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="60" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" title="Android" alt="Android" width="40" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Py" width="40" height="60"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" title="JQuery" alt="JQuery" width="40" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="40" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-line-wordmark.svg"  title="Firebase" alt="Firebase" width="40" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="70" height="60" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" title="Android" alt="Android" width="70" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Py" width="70" height="60"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" title="JQuery" alt="JQuery" width="70" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="70" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-line-wordmark.svg"  title="Firebase" alt="Firebase" width="70" height="60"/>&nbsp;
   <div>
   </div>
 </div>
@@ -45,7 +56,12 @@ My core skills include following
 - Django
 - Firebase
 
+## Stats
 
+<div id="stats" align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prektrons" alt="Top Languages"/>
+</div>
   
 <!--
 **prektrons/prektrons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
