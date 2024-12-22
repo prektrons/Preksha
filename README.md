@@ -10,6 +10,7 @@ Hi, Preksha Sharma
 - Automated the software release process using scripts, reducing the time required by 70%.
 - A competent leader with excellent communication, multitasking, analytical, negotiation, and relationship-building skills.
 
+
  <p>
 <div>
 <a href="https://www.linkedin.com/in/preksha-sharma-8ab51a86/" ><img align="center" src="https://github.com/prektrons/PrekshaPortfolio/blob/main/LinkedIn-Logo.jpg" height="100" /></a>
