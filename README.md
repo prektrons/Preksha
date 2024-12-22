@@ -34,6 +34,7 @@ Hi, Preksha Sharma
 ## Core Skills
 
 
+
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="70" height="60" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" title="Android" alt="Android" width="70" height="60"/>&nbsp;
