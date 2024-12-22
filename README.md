@@ -11,13 +11,6 @@ Hi, Preksha Sharma
 - A competent leader with excellent communication, multitasking, analytical, negotiation, and relationship-building skills.
 
 
- <p>
-<div>
-<a href="https://www.linkedin.com/in/preksha-sharma-8ab51a86/" ><img align="center" src="https://github.com/prektrons/PrekshaPortfolio/blob/main/LinkedIn-Logo.jpg" height="100" /></a>
-<a href="https://github.com/prektrons" ><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" height="100" /></a>
-</div>
-</p>
-
 
 <div id="header" align="center">
  
