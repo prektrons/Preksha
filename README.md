@@ -18,6 +18,21 @@ Hi, Preksha Sharma
 </div>
 </p>
 
+
+<div id="header" align="center">
+ 
+</div>
+
+  <div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/preksha-sharma-8ab51a86/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue" alt="LinkedIn Badge"/>
+  </a>
+  
+  
+
+</div>
+
+
 ## Core Skills
 
 
