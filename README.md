@@ -81,8 +81,13 @@ Hi, Preksha Sharma
 <div id="stats" align="center">
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prektrons" alt="Top Languages"/>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prektrons&show_icons=true&locale=en" alt="prektrons" /></p>
 </div>
-  
+
+ 
+
+
 <!--
 **prektrons/prektrons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
