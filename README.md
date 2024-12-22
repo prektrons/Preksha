@@ -26,12 +26,11 @@ Hi, Preksha Sharma
   <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/preksha-sharma-8ab51a86/">
   <img src="https://img.shields.io/badge/LinkedIn-blue" alt="LinkedIn Badge"/>
+  </a>
    <a href="https://github.com/prektrons">
   <img src="https://img.shields.io/badge/GitHub-black" alt="Github Badge"/>
   </a>
   
-  
-
 </div>
 
 
